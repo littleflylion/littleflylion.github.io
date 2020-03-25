@@ -1,0 +1,30 @@
+<<<<<<< HEAD
+_site/
+*.swp
+*.~vsd
+\#*\#
+*~
+.DS_Store
+Gemfile.lock
+.vscode/
+=======
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+_site/
+.sass-cache/
+*.swp
+pkg/
+test/
+_deploy/*
+Rakefile
+.jekyll-metadata
+/.idea/
+>>>>>>> 5ae629f2adcb1b7ac08d0ecbc320c77c128d0aee
